@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+node_modules/
+.next/
+output/arena-go/.dart_tool/
+output/arena-go/build/
+output/arena-go/.flutter-plugins
+output/arena-go/.flutter-plugins-dependencies
+output/firebase/functions/lib/
+output/firebase/functions/node_modules/
+output/web-dashboard/.next/
+output/web-dashboard/node_modules/
+*.log
