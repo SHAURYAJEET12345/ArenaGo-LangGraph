@@ -1,1 +1,3 @@
-// Could not generate 3.6_turfs_pages
+﻿export default function StubPage() {
+  return <div>Stub Page</div>;
+}

@@ -1,1 +1,3 @@
-// Could not generate 3.8_payments_page
+﻿export default function StubPage() {
+  return <div>Stub Page</div>;
+}

@@ -1,1 +1,3 @@
-// Could not generate 3.9_owner_layout
+﻿export default function StubPage() {
+  return <div>Stub Page</div>;
+}

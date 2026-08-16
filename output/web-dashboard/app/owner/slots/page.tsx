@@ -1,1 +1,3 @@
-// Could not generate 3.10_owner_slots
+﻿export default function StubPage() {
+  return <div>Stub Page</div>;
+}

@@ -1,1 +1,3 @@
-// Could not generate 3.5_admin_dashboard
+﻿export default function StubPage() {
+  return <div>Stub Page</div>;
+}

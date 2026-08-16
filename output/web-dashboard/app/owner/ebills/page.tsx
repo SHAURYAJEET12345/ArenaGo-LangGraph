@@ -1,1 +1,3 @@
-// Could not generate 3.12_ebills
+﻿export default function StubPage() {
+  return <div>Stub Page</div>;
+}

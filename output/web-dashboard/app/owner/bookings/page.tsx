@@ -1,1 +1,3 @@
-// Could not generate 3.11_owner_bookings
+﻿export default function StubPage() {
+  return <div>Stub Page</div>;
+}

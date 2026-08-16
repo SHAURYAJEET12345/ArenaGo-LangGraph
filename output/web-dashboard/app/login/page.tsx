@@ -1,1 +1,3 @@
-// Could not generate 3.3_login_page
+﻿export default function StubPage() {
+  return <div>Stub Page</div>;
+}
