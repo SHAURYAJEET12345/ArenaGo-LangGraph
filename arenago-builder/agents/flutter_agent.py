@@ -1,4 +1,4 @@
-﻿import os
+import os
 import time
 from langchain_groq import ChatGroq
 from langchain_google_genai import ChatGoogleGenerativeAI

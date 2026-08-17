@@ -1,4 +1,4 @@
-﻿from state import AgentState
+from state import AgentState
 
 ALL_TASKS = [
     # Phase 1: Firebase & Shared Setup
